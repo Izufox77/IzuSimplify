@@ -1,4 +1,4 @@
-IzuSimplify
+**IzuSimplify**
 
 
 IzuSimplify is a module
