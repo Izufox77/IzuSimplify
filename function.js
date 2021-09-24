@@ -1,5 +1,5 @@
 //Imports
-var opn = require('opn');
+const opn = require('opn');
 
 //Functions
 
